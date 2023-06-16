@@ -1,6 +1,14 @@
-CLI: revanced-cli-2.22.0-all.jar  
-Integrations: revanced-integrations-0.110.0.apk  
-Patches: revanced-patches-2.177.0.jar  
+YouTube: 18.19.35  
+
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
+
+[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
+
+---
+Changelog:  
+CLI: j-hc/revanced-cli-2.22.0-all.jar  
+Integrations: revanced/revanced-integrations-0.110.0.apk  
+Patches: revanced/revanced-patches-2.177.0.jar  
 
 ### [2.177.0](https://github.com/revanced/revanced-patches/compare/v2.176.1...v2.177.0) (2023-06-12)
 ### Bug Fixes
@@ -10,10 +18,4 @@ Patches: revanced-patches-2.177.0.jar
 ### Features
 * **syncforreddit/change-oauth-client-id:** support pro version ([d34288b](https://github.com/revanced/revanced-patches/commit/d34288b6e8c7f5bb944622a3c741fcc693868033))
 
-  
-**App Versions:**  
-YouTube: 18.19.35  
-
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
-
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
+---  
