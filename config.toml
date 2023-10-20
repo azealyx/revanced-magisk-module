@@ -8,7 +8,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 build-mode = "apk"
-excluded-patches = "'debugging' 'premium-heading' 'hide-shorts-button' 'theme' 'hide-cast-button' 'hide-infocard-suggestions'"  
+excluded-patches = "'Enable debugging' 'Premium heading' 'Hide Shorts components' 'Theme'"
 included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
